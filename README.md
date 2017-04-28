@@ -1,7 +1,7 @@
 # OpenGrip
 Cheap open source vaporizer for low resistence vaping.
 
-##Futures
+## Futures
 1. Powered by Arduino NANO
 2. Touchable color display
 3. Many options for vaping
@@ -22,7 +22,7 @@ See documentation "Documentation/Manual-step-by-step.odt".
 8. Box and box parts (printed on 3D printer). I prefer [REBEL 2](http://www.rebelove.org/)
 9. Something wires :-)
 
-##Recomended software for developers
+## Recomended software for developers
 1. [Linux](https://www.ubuntu.com/) - Just better than Windows :-). FREE!
 2. [Fritzing](http://fritzing.org) for el. schemes and PCB. FREE (Linux/Windows)
 3. [Arduino-IDE](https://www.arduino.cc/en/main/software) for firmware edit. FREE (Linux/Windows)
@@ -30,5 +30,5 @@ See documentation "Documentation/Manual-step-by-step.odt".
 5. [FreeCAD](https://www.freecadweb.org/) for box and parts model. FREE (Linux/Windows)
 6. [Nextion editor](https://nextion.itead.cc/download.html) for display programming.(Linux via wine, windows)
 
-####Join the Open Grip development comunity and made it better for everyone!
+#### Join the Open Grip development comunity and made it better for everyone!
 
