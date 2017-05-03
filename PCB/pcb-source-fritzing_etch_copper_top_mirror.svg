@@ -1,0 +1,2746 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="46mm"
+   y="0in"
+   version="1.2"
+   height="52.999897mm"
+   x="0in"
+   viewBox="0 0 130.39378 150.236"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="pcb-source-fritzing_etch_copper_top_mirror.svg">
+  <metadata
+     id="metadata423">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs421">
+    <rect
+       height="9"
+       width="9"
+       id="p"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1376"
+     inkscape:window-height="1046"
+     id="namedview419"
+     showgrid="false"
+     inkscape:zoom="3.6203867"
+     inkscape:cx="30.656615"
+     inkscape:cy="97.471356"
+     inkscape:window-x="2425"
+     inkscape:window-y="63"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     units="mm" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4551"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-1,0,0,1,131.22337,-8.5203994e-6)"><flowRegion
+       id="flowRegion4553"><rect
+         id="rect4555"
+         width="145.77986"
+         height="75.436302"
+         x="-11.458679"
+         y="20.370975" /></flowRegion><flowPara
+       id="flowPara4557">OpenGrip</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4567"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-1,0,0,1,131.22337,-8.5203994e-6)"><flowRegion
+       id="flowRegion4569"><rect
+         id="rect4571"
+         width="128.27354"
+         height="170.2887"
+         x="-36.922409"
+         y="-39.468792" /></flowRegion><flowPara
+       id="flowPara4573" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4583"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-1,0,0,1,131.22337,-8.5203994e-6)"><flowRegion
+       id="flowRegion4585"><rect
+         id="rect4587"
+         width="79.255859"
+         height="75.436302"
+         x="-72.253334"
+         y="-41.696869" /></flowRegion><flowPara
+       id="flowPara4589" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4591"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.00001907px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-1,0,0,1,131.22337,-8.5203994e-6)"><flowRegion
+       id="flowRegion4593"><rect
+         id="rect4595"
+         width="143.55177"
+         height="57.293392"
+         x="86.894981"
+         y="-42.970055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'" /></flowRegion><flowPara
+       id="flowPara4597" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4599"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-1,0,0,1,131.22337,-8.5203994e-6)"><flowRegion
+       id="flowRegion4601"><rect
+         id="rect4603"
+         width="195.43413"
+         height="61.431248"
+         x="60.47636"
+         y="-48.381096" /></flowRegion><flowPara
+       id="flowPara4605" /></flowRoot>  <g
+     transform="translate(0.18734781,0.11794876)"
+     id="g4-3">
+    <g
+       partID="67020"
+       id="g6-4">
+      <g
+         id="board-0" />
+    </g>
+    <g
+       partID="854116851"
+       id="g10-9">
+      <g
+         transform="translate(55.4456,140.699)"
+         id="g12-1">
+        <g
+           id="copper1-9">
+          <circle
+             id="nonconn0-6"
+             cy="4.7181101"
+             r="3.1181099"
+             cx="4.7181101"
+             style="fill:#000000;stroke:#000000;stroke-width:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854116881"
+       id="g16-9">
+      <g
+         transform="translate(0.1696,140.699)"
+         id="g18-3">
+        <g
+           id="g20-3">
+          <circle
+             id="circle22-8"
+             cy="4.7181101"
+             r="3.1181099"
+             cx="4.7181101"
+             style="fill:#000000;stroke:#000000;stroke-width:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854116911"
+       id="g24-0">
+      <g
+         transform="translate(55.4456,0.100774)"
+         id="g26-5">
+        <g
+           id="g28-6">
+          <circle
+             id="circle30-6"
+             cy="4.7181101"
+             r="3.1181099"
+             cx="4.7181101"
+             style="fill:#000000;stroke:#000000;stroke-width:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854117861"
+       id="g32-4">
+      <g
+         transform="translate(0.4536,0.100774)"
+         id="g34-0">
+        <g
+           id="g36-0">
+          <circle
+             id="circle38-4"
+             cy="4.7181101"
+             r="3.1181099"
+             cx="4.7181101"
+             style="fill:#000000;stroke:#000000;stroke-width:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="76022"
+       id="g40-6">
+      <g
+         transform="translate(53.7064,21.6057)"
+         id="g42-2">
+        <g
+           id="g44-6">
+          <g
+             id="copper0-7">
+            <circle
+               id="connector0pin-5"
+               cy="5.04"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="connector1pin-6"
+               cy="12.24"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="76532"
+       id="g49-9">
+      <g
+         transform="translate(53.7064,35.7789)"
+         id="g51-8">
+        <g
+           id="g53-7">
+          <g
+             id="g55-2">
+            <circle
+               id="circle57-8"
+               cy="5.04"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle59-2"
+               cy="12.24"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="76862"
+       id="g61-9">
+      <g
+         transform="translate(53.7064,50.2356)"
+         id="g63-9">
+        <g
+           id="g65-6">
+          <g
+             id="g67-0">
+            <circle
+               id="circle69-2"
+               cy="5.04"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle71-7"
+               cy="12.24"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854113632"
+       id="g73-6">
+      <g
+         transform="translate(53.9904,122.519)"
+         id="g75-1">
+        <g
+           id="g77-3">
+          <g
+             id="g79-2">
+            <circle
+               id="circle81-1"
+               cy="5.04"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle83-5"
+               cy="12.24"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67062"
+       id="g85-9">
+      <g
+         transform="translate(53.3888,123.732)"
+         id="g87-9">
+        <g
+           transform="scale(-1,-1)"
+           id="g89-1">
+          <g
+             id="g91-4">
+            <g
+               id="g93-9">
+              <circle
+                 id="connector16pad-1"
+                 cy="10.8"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <rect
+                 width="3.8139999"
+                 y="8.8920002"
+                 height="3.816"
+                 x="1.692"
+                 id="rect96-0"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector17pad-7"
+                 cy="18"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector18pad-5"
+                 cy="25.200001"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector19pad-8"
+                 cy="32.400002"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector20pad-7"
+                 cy="39.599998"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector21pad-0"
+                 cy="46.799999"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector22pad-4"
+                 cy="54"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector23pad-8"
+                 cy="61.200001"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector24pad-0"
+                 cy="68.400002"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector25pad-4"
+                 cy="75.599998"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector26pad-2"
+                 cy="82.800003"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector27pad-9"
+                 cy="90"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector28pad-6"
+                 cy="97.199997"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector29pad-1"
+                 cy="104.4"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector30pad-0"
+                 cy="111.6"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector31pad-4"
+                 cy="10.8"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector32pad-2"
+                 cy="18"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector33pad-2"
+                 cy="25.200001"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector34pad-2"
+                 cy="32.400002"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector35pad-0"
+                 cy="39.599998"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector36pad-5"
+                 cy="46.799999"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector37pad-5"
+                 cy="54"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector38pad-2"
+                 cy="61.200001"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector39pad-9"
+                 cy="68.400002"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector40pad-0"
+                 cy="75.599998"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector41pad-2"
+                 cy="82.800003"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector42pad-8"
+                 cy="90"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector43pad-3"
+                 cy="97.199997"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector44pad-8"
+                 cy="104.4"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector45pad-0"
+                 cy="111.6"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67352"
+       id="g127-4">
+      <g
+         transform="translate(17.6952,124.22)"
+         id="g129-0">
+        <g
+           transform="matrix(0,1,-1,0,0,0)"
+           id="g131-9">
+          <g
+             id="g133-1">
+            <g
+               id="g135-9">
+              <rect
+                 width="4.1760001"
+                 id="square-6"
+                 y="2.9519999"
+                 height="4.1760001"
+                 x="2.9519999"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="circle138-2"
+                 cy="5.04"
+                 r="2.0880001"
+                 cx="5.04"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="circle140-5"
+                 cy="12.24"
+                 r="2.0880001"
+                 cx="5.04"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67522"
+       id="g142-4">
+      <g
+         transform="translate(47.544,143.66)"
+         id="g144-4">
+        <g
+           transform="scale(-1,-1)"
+           id="g146-9">
+          <g
+             id="g148-9">
+            <g
+               id="g150-3">
+              <rect
+                 width="4.4640002"
+                 y="12.168"
+                 height="4.4640002"
+                 x="6.408"
+                 id="rect152-6"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="connector0pad-0"
+                 cy="14.4"
+                 r="2.2320001"
+                 cx="8.6400003"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="connector1pad-5"
+                 cy="14.4"
+                 r="2.2320001"
+                 cx="15.84"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="connector2pad-0"
+                 cy="14.4"
+                 r="2.2320001"
+                 cx="23.040001"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67662"
+       id="g157-2">
+      <g
+         transform="translate(44.8344,59.7757)"
+         id="g159-9">
+        <g
+           transform="matrix(0,1,-1,0,0,0)"
+           id="g161-4">
+          <g
+             id="g163-3">
+            <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+            <circle
+               id="circle165-5"
+               cy="3.096"
+               r="1.98"
+               cx="2.7"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle167-1"
+               cy="3.096"
+               r="1.98"
+               cx="31.5"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67872"
+       id="g169-7">
+      <g
+         transform="translate(38.5984,59.7757)"
+         id="g171-4">
+        <g
+           transform="matrix(0,1,-1,0,0,0)"
+           id="g173-3">
+          <g
+             id="g175-1">
+            <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+            <circle
+               id="circle177-4"
+               cy="3.096"
+               r="1.98"
+               cx="2.7"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle179-6"
+               cy="3.096"
+               r="1.98"
+               cx="31.5"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="68192"
+       id="g181-9">
+      <g
+         transform="translate(32.3616,59.7757)"
+         id="g183-4">
+        <g
+           transform="matrix(0,1,-1,0,0,0)"
+           id="g185-2">
+          <g
+             id="g187-2">
+            <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+            <circle
+               id="circle189-6"
+               cy="3.096"
+               r="1.98"
+               cx="2.7"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle191-4"
+               cy="3.096"
+               r="1.98"
+               cx="31.5"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="71202"
+       id="g193-1">
+      <g
+         transform="translate(8.9912,102.636)"
+         id="g195-2">
+        <g
+           id="g197-8">
+          <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+          <circle
+             id="circle199-8"
+             cy="3.096"
+             r="1.98"
+             cx="2.7"
+             style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          <circle
+             id="circle201-9"
+             cy="3.096"
+             r="1.98"
+             cx="31.5"
+             style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854133672"
+       id="g203-2">
+      <g
+         transform="translate(46.3591,144.952)"
+         id="g205-8">
+        <g
+           transform="matrix(0,-1,1,0,0,0)"
+           id="g207-8">
+          <g
+             id="g209-8">
+            <g
+               id="g211-6">
+              <rect
+                 width="4.4640002"
+                 y="1.368"
+                 height="4.4640002"
+                 x="0.72000003"
+                 id="rect213-8"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="circle215-3"
+                 cy="3.5999999"
+                 r="2.2320001"
+                 cx="3.0239999"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="circle217-8"
+                 cy="3.5999999"
+                 r="2.2320001"
+                 cx="24.48"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854118170"
+       id="g219-3">
+      <line
+         y1="55.242699"
+         y2="55.3032"
+         x1="44.560799"
+         x2="48.093399"
+         id="line221-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854118060"
+       id="g223-3">
+      <line
+         y1="61.439899"
+         y2="55.242699"
+         x1="36.799599"
+         x2="44.5606"
+         id="line225-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78690"
+       id="g227-0">
+      <line
+         y1="15.8918"
+         y2="15.5674"
+         x1="58.722401"
+         x2="11.1553"
+         id="line229-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78540"
+       id="g231-7">
+      <line
+         y1="15.5674"
+         y2="91.271202"
+         x1="11.1552"
+         x2="11.1249"
+         id="line233-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78390"
+       id="g235-8">
+      <line
+         y1="91.271202"
+         y2="91.309402"
+         x1="11.1248"
+         x2="8.28442"
+         id="line237-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78240"
+       id="g239-0">
+      <line
+         y1="24.877701"
+         y2="15.8918"
+         x1="58.7425"
+         x2="58.722599"
+         id="line241-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78130"
+       id="g243-8">
+      <line
+         y1="33.729401"
+         y2="33.805401"
+         x1="53.641602"
+         x2="56.978901"
+         id="line245-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854118280"
+       id="g247-9">
+      <line
+         y1="45.080601"
+         y2="42.486099"
+         x1="53.641602"
+         x2="53.641602"
+         id="line249-0"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854117890"
+       id="g251-3">
+      <line
+         y1="42.486099"
+         y2="33.729401"
+         x1="53.641602"
+         x2="53.641602"
+         id="line253-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78020"
+       id="g255-3">
+      <line
+         y1="47.3307"
+         y2="45.080601"
+         x1="51.647999"
+         x2="53.641602"
+         id="line257-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77910"
+       id="g259-3">
+      <line
+         y1="47.460701"
+         y2="47.3307"
+         x1="51.346199"
+         x2="51.6478"
+         id="line261-2"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77800"
+       id="g263-6">
+      <line
+         y1="48.215801"
+         y2="48.100899"
+         x1="54.506401"
+         x2="56.980301"
+         id="line265-5"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77690"
+       id="g267-2">
+      <line
+         y1="55.242699"
+         y2="48.215801"
+         x1="54.506401"
+         x2="54.506401"
+         id="line269-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77580"
+       id="g271-5">
+      <line
+         y1="55.299999"
+         y2="55.242699"
+         x1="51.484501"
+         x2="54.506302"
+         id="line273-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77470"
+       id="g275-7">
+      <line
+         y1="62.5214"
+         y2="62.486698"
+         x1="51.484798"
+         x2="56.978401"
+         id="line277-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77360"
+       id="g279-6">
+      <line
+         y1="55.242699"
+         y2="55.262699"
+         x1="63.263199"
+         x2="60.5145"
+         id="line281-0"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77250"
+       id="g283-4">
+      <line
+         y1="40.864498"
+         y2="55.242699"
+         x1="63.263199"
+         x2="63.263199"
+         id="line285-1"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77030"
+       id="g287-0">
+      <line
+         y1="40.864498"
+         y2="26.634199"
+         x1="63.263199"
+         x2="63.302299"
+         id="line289-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="76960"
+       id="g291-8">
+      <line
+         y1="26.634199"
+         y2="26.641199"
+         x1="63.302399"
+         x2="60.514599"
+         id="line293-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="76890"
+       id="g295-0">
+      <line
+         y1="40.8367"
+         y2="40.864399"
+         x1="60.514301"
+         x2="63.2631"
+         id="line297-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="67690"
+       id="g299-6">
+      <line
+         y1="62.487301"
+         y2="62.520302"
+         x1="43.398399"
+         x2="48.093102"
+         id="line301-2"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="67760"
+       id="g303-4">
+      <line
+         y1="91.320297"
+         y2="91.287399"
+         x1="48.0928"
+         x2="43.398399"
+         id="line305-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="67900"
+       id="g307-9">
+      <line
+         y1="91.275703"
+         y2="91.275703"
+         x1="37.162399"
+         x2="40.0784"
+         id="line309-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="68220"
+       id="g311-9">
+      <line
+         y1="91.276001"
+         y2="91.276001"
+         x1="30.9256"
+         x2="33.8424"
+         id="line313-2"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="68480"
+       id="g315-8">
+      <line
+         y1="61.529999"
+         y2="60.875301"
+         x1="29.5264"
+         x2="29.706699"
+         id="line317-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854117070"
+       id="g319-0">
+      <line
+         y1="48.215801"
+         y2="61.529999"
+         x1="45.1008"
+         x2="29.5257"
+         id="line321-1"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="68410"
+       id="g323-7">
+      <line
+         y1="48.162399"
+         y2="48.215698"
+         x1="48.093102"
+         x2="45.101002"
+         id="line325-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="71530"
+       id="g327-9">
+      <line
+         y1="105.732"
+         y2="105.732"
+         x1="10.0312"
+         x2="8.2847996"
+         id="line329-1"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72240"
+       id="g331-5">
+      <line
+         y1="95.566399"
+         y2="95.484398"
+         x1="40.560799"
+         x2="23.867001"
+         id="line333-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72150"
+       id="g335-9">
+      <line
+         y1="95.484802"
+         y2="59.783401"
+         x1="23.867201"
+         x2="24.1287"
+         id="line337-2"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854117180"
+       id="g339-5">
+      <line
+         y1="41.080601"
+         y2="40.985802"
+         x1="45.1008"
+         x2="48.093498"
+         id="line341-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72080"
+       id="g343-4">
+      <line
+         y1="59.783199"
+         y2="41.0807"
+         x1="24.128"
+         x2="45.1008"
+         id="line345-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72010"
+       id="g347-9">
+      <line
+         y1="104.072"
+         y2="95.566299"
+         x1="40.502499"
+         x2="40.560501"
+         id="line349-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72420"
+       id="g351-5">
+      <line
+         y1="129.51199"
+         y2="107.392"
+         x1="40.344799"
+         x2="40.481499"
+         id="line353-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72310"
+       id="g355-3">
+      <line
+         y1="129.589"
+         y2="129.51199"
+         x1="40.787399"
+         x2="40.344799"
+         id="line357-5"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854118500"
+       id="g359-7">
+      <line
+         y1="120.431"
+         y2="120.431"
+         x1="5.4256001"
+         x2="6.6147799"
+         id="line361-0"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854118390"
+       id="g363-8">
+      <line
+         y1="120.431"
+         y2="114.628"
+         x1="6.6152"
+         x2="6.5950398"
+         id="line365-1"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="73720"
+       id="g367-9">
+      <line
+         y1="127.492"
+         y2="120.431"
+         x1="5.4492698"
+         x2="5.4256001"
+         id="line369-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="74460"
+       id="g371-7">
+      <line
+         y1="129.25999"
+         y2="129.25999"
+         x1="15.6232"
+         x2="21.392"
+         id="line373-8"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854133330"
+       id="g375-2">
+      <line
+         y1="107.392"
+         y2="129.35899"
+         x1="11.69"
+         x2="11.674"
+         id="line377-5"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854133500"
+       id="g379-3">
+      <line
+         y1="129.35899"
+         y2="129.438"
+         x1="11.674"
+         x2="10.8961"
+         id="line381-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134020"
+       id="g383-9">
+      <line
+         y1="141.841"
+         y2="131.994"
+         x1="10.7662"
+         x2="6.6094899"
+         id="line385-0"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854133780"
+       id="g387-2">
+      <line
+         y1="141.922"
+         y2="141.841"
+         x1="46.847099"
+         x2="10.7662"
+         id="line389-0"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854133910"
+       id="g391-1">
+      <line
+         y1="136.103"
+         y2="140.495"
+         x1="57.329498"
+         x2="51.772999"
+         id="line393-9"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134740"
+       id="g395-6">
+      <line
+         y1="136.33299"
+         y2="136.394"
+         x1="43.723301"
+         x2="31.8722"
+         id="line397-2"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134390"
+       id="g399-1">
+      <line
+         y1="132.629"
+         y2="136.33299"
+         x1="49.999699"
+         x2="43.723301"
+         id="line401-2"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134280"
+       id="g403-0">
+      <line
+         y1="136.394"
+         y2="132.371"
+         x1="31.8722"
+         x2="31.7773"
+         id="line405-7"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134170"
+       id="g407-3">
+      <line
+         y1="123.584"
+         y2="132.629"
+         x1="49.969501"
+         x2="49.999699"
+         id="line409-1"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134540"
+       id="g411-1">
+      <line
+         y1="123.584"
+         y2="127.587"
+         x1="49.976898"
+         x2="49.999699"
+         id="line413-9"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134650"
+       id="g415-0">
+      <line
+         y1="127.587"
+         y2="127.568"
+         x1="49.999699"
+         x2="56.062401"
+         id="line417-5"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+  </g>
+  <flowRoot
+     transform="matrix(-1,0,0,1,65.384251,0.11795176)"
+     xml:space="preserve"
+     id="flowRoot4551-6"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       id="flowRegion4553-7"><rect
+         id="rect4555-7"
+         width="145.77986"
+         height="75.436302"
+         x="-11.458679"
+         y="20.370975" /></flowRegion><flowPara
+       id="flowPara4557-4">OpenGrip</flowPara></flowRoot>  <flowRoot
+     transform="matrix(-1,0,0,1,65.384251,0.11795176)"
+     xml:space="preserve"
+     id="flowRoot4567-0"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       id="flowRegion4569-6"><rect
+         id="rect4571-4"
+         width="128.27354"
+         height="170.2887"
+         x="-36.922409"
+         y="-39.468792" /></flowRegion><flowPara
+       id="flowPara4573-7" /></flowRoot>  <flowRoot
+     transform="matrix(-1,0,0,1,65.384251,0.11795176)"
+     xml:space="preserve"
+     id="flowRoot4583-4"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       id="flowRegion4585-8"><rect
+         id="rect4587-5"
+         width="79.255859"
+         height="75.436302"
+         x="-72.253334"
+         y="-41.696869" /></flowRegion><flowPara
+       id="flowPara4589-8" /></flowRoot>  <flowRoot
+     transform="matrix(-1,0,0,1,65.384251,0.11795176)"
+     xml:space="preserve"
+     id="flowRoot4591-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.00001907px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       id="flowRegion4593-6"><rect
+         id="rect4595-0"
+         width="143.55177"
+         height="57.293392"
+         x="86.894981"
+         y="-42.970055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'" /></flowRegion><flowPara
+       id="flowPara4597-6" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4599-6"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-0.80000053,0,0,0.80000046,65.346256,0.15594876)"><flowRegion
+       id="flowRegion4601-4"><rect
+         id="rect4603-6"
+         width="244.29251"
+         height="76.789017"
+         x="75.547905"
+         y="-60.523834" /></flowRegion><flowPara
+       id="flowPara4605-2" /></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-8"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-1,0,0,1,64.429361,0.75454176)"><flowRegion
+       id="flowRegion4609-9"><rect
+         id="rect4611-6"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       id="flowPara4613-07"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.00000381px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'">OpenGrip 2017</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-0"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,54.5195,61.787785)"><flowRegion
+       id="flowRegion4609-0-1"><rect
+         id="rect4611-3-0"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       id="flowPara4613-0-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'">Ondřej Šilha</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-9-3"
+     style="font-style:normal;font-weight:normal;font-size:6.00000381px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(3.7992193e-4,1.0419323,1.5087207,-2.6237654e-4,12.718508,7.7541521)"><flowRegion
+       id="flowRegion4609-0-2-7"><rect
+         id="rect4611-3-5-7"
+         width="122.86466"
+         height="25.451307"
+         x="8.9123058"
+         y="-1.2731918"
+         style="font-size:6.00000381px" /></flowRegion><flowPara
+       id="flowPara4613-0-4-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00000381px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'">https://github.com/myfin02/opengrip</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-6"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,24.655428,57.247792)"><flowRegion
+       id="flowRegion4609-0-24-4-4"><rect
+         id="rect4611-3-7-8-5"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4723-2">R1</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-0"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,31.252854,57.021515)"><flowRegion
+       id="flowRegion4609-0-24-4-8-2"><rect
+         id="rect4611-3-7-8-9-9"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4723-3-0">R2</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-9"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,37.411551,56.913925)"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-9"><rect
+         id="rect4611-3-7-8-9-0-4"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4723-3-2-5">R3</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-1-10"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,29.800008,92.813873)"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-0-3"><rect
+         id="rect4611-3-7-8-9-0-5-7"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4723-3-2-1-8">R4</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-1-1-8"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,41.120021,114.04376)"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-0-0-60"><rect
+         id="rect4611-3-7-8-9-0-5-8-46"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4823-7">D1</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-1-1-0-6"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,15.656399,122.70971)"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-0-0-6-0"><rect
+         id="rect4611-3-7-8-9-0-5-8-4-9"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4823-6-7">T1</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-1-1-3-4"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-0.99999051,-0.00435917,-0.00435917,0.99999049,36.147165,6.7341178)"
+     inkscape:transform-center-x="68.387822"
+     inkscape:transform-center-y="9.5508095"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-0-0-1-0"><rect
+         id="rect4611-3-7-8-9-0-5-8-1-3"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4823-0-1">V1.1</flowPara></flowRoot>  <g
+     transform="translate(64.560858,-0.19453866)"
+     id="g4-3-3">
+    <g
+       partID="67020"
+       id="g6-4-6">
+      <g
+         id="board-0-7" />
+    </g>
+    <g
+       partID="854116851"
+       id="g10-9-5">
+      <g
+         transform="translate(55.4456,140.699)"
+         id="g12-1-3">
+        <g
+           id="copper1-9-5">
+          <circle
+             id="nonconn0-6-6"
+             cy="4.7181101"
+             r="3.1181099"
+             cx="4.7181101"
+             style="fill:#000000;stroke:#000000;stroke-width:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854116881"
+       id="g16-9-2">
+      <g
+         transform="translate(0.1696,140.699)"
+         id="g18-3-9">
+        <g
+           id="g20-3-1">
+          <circle
+             id="circle22-8-2"
+             cy="4.7181101"
+             r="3.1181099"
+             cx="4.7181101"
+             style="fill:#000000;stroke:#000000;stroke-width:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854116911"
+       id="g24-0-7">
+      <g
+         transform="translate(55.4456,0.100774)"
+         id="g26-5-0">
+        <g
+           id="g28-6-9">
+          <circle
+             id="circle30-6-3"
+             cy="4.7181101"
+             r="3.1181099"
+             cx="4.7181101"
+             style="fill:#000000;stroke:#000000;stroke-width:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854117861"
+       id="g32-4-6">
+      <g
+         transform="translate(0.4536,0.100774)"
+         id="g34-0-0">
+        <g
+           id="g36-0-6">
+          <circle
+             id="circle38-4-2"
+             cy="4.7181101"
+             r="3.1181099"
+             cx="4.7181101"
+             style="fill:#000000;stroke:#000000;stroke-width:0" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="76022"
+       id="g40-6-6">
+      <g
+         transform="translate(53.7064,21.6057)"
+         id="g42-2-1">
+        <g
+           id="g44-6-8">
+          <g
+             id="copper0-7-7">
+            <circle
+               id="connector0pin-5-9"
+               cy="5.04"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="connector1pin-6-2"
+               cy="12.24"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="76532"
+       id="g49-9-0">
+      <g
+         transform="translate(53.7064,35.7789)"
+         id="g51-8-2">
+        <g
+           id="g53-7-3">
+          <g
+             id="g55-2-7">
+            <circle
+               id="circle57-8-5"
+               cy="5.04"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle59-2-9"
+               cy="12.24"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="76862"
+       id="g61-9-2">
+      <g
+         transform="translate(53.7064,50.2356)"
+         id="g63-9-2">
+        <g
+           id="g65-6-8">
+          <g
+             id="g67-0-9">
+            <circle
+               id="circle69-2-7"
+               cy="5.04"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle71-7-3"
+               cy="12.24"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854113632"
+       id="g73-6-6">
+      <g
+         transform="translate(53.9904,122.519)"
+         id="g75-1-1">
+        <g
+           id="g77-3-2">
+          <g
+             id="g79-2-9">
+            <circle
+               id="circle81-1-3"
+               cy="5.04"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle83-5-1"
+               cy="12.24"
+               r="2.0880001"
+               cx="5.04"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67062"
+       id="g85-9-9">
+      <g
+         transform="translate(53.3888,123.732)"
+         id="g87-9-4">
+        <g
+           transform="scale(-1,-1)"
+           id="g89-1-7">
+          <g
+             id="g91-4-8">
+            <g
+               id="g93-9-4">
+              <circle
+                 id="connector16pad-1-5"
+                 cy="10.8"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <rect
+                 width="3.8139999"
+                 y="8.8920002"
+                 height="3.816"
+                 x="1.692"
+                 id="rect96-0-0"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector17pad-7-3"
+                 cy="18"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector18pad-5-6"
+                 cy="25.200001"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector19pad-8-1"
+                 cy="32.400002"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector20pad-7-0"
+                 cy="39.599998"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector21pad-0-6"
+                 cy="46.799999"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector22pad-4-3"
+                 cy="54"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector23pad-8-2"
+                 cy="61.200001"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector24pad-0-0"
+                 cy="68.400002"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector25pad-4-6"
+                 cy="75.599998"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector26pad-2-1"
+                 cy="82.800003"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector27pad-9-5"
+                 cy="90"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector28pad-6-5"
+                 cy="97.199997"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector29pad-1-4"
+                 cy="104.4"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector30pad-0-7"
+                 cy="111.6"
+                 r="1.908"
+                 cx="3.5999999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector31pad-4-6"
+                 cy="10.8"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector32pad-2-5"
+                 cy="18"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector33pad-2-6"
+                 cy="25.200001"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector34pad-2-9"
+                 cy="32.400002"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector35pad-0-3"
+                 cy="39.599998"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector36pad-5-7"
+                 cy="46.799999"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector37pad-5-4"
+                 cy="54"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector38pad-2-5"
+                 cy="61.200001"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector39pad-9-2"
+                 cy="68.400002"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector40pad-0-5"
+                 cy="75.599998"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector41pad-2-4"
+                 cy="82.800003"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector42pad-8-7"
+                 cy="90"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector43pad-3-4"
+                 cy="97.199997"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector44pad-8-4"
+                 cy="104.4"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+              <circle
+                 id="connector45pad-0-3"
+                 cy="111.6"
+                 r="1.908"
+                 cx="46.799999"
+                 style="fill:none;stroke:#000000;stroke-width:1.22399998" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67352"
+       id="g127-4-0">
+      <g
+         transform="translate(17.6952,124.22)"
+         id="g129-0-7">
+        <g
+           transform="matrix(0,1,-1,0,0,0)"
+           id="g131-9-8">
+          <g
+             id="g133-1-6">
+            <g
+               id="g135-9-8">
+              <rect
+                 width="4.1760001"
+                 id="square-6-8"
+                 y="2.9519999"
+                 height="4.1760001"
+                 x="2.9519999"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="circle138-2-4"
+                 cy="5.04"
+                 r="2.0880001"
+                 cx="5.04"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="circle140-5-3"
+                 cy="12.24"
+                 r="2.0880001"
+                 cx="5.04"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67522"
+       id="g142-4-1">
+      <g
+         transform="translate(47.544,143.66)"
+         id="g144-4-4">
+        <g
+           transform="scale(-1,-1)"
+           id="g146-9-9">
+          <g
+             id="g148-9-2">
+            <g
+               id="g150-3-0">
+              <rect
+                 width="4.4640002"
+                 y="12.168"
+                 height="4.4640002"
+                 x="6.408"
+                 id="rect152-6-6"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="connector0pad-0-8"
+                 cy="14.4"
+                 r="2.2320001"
+                 cx="8.6400003"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="connector1pad-5-9"
+                 cy="14.4"
+                 r="2.2320001"
+                 cx="15.84"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="connector2pad-0-2"
+                 cy="14.4"
+                 r="2.2320001"
+                 cx="23.040001"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67662"
+       id="g157-2-6">
+      <g
+         transform="translate(44.8344,59.7757)"
+         id="g159-9-6">
+        <g
+           transform="matrix(0,1,-1,0,0,0)"
+           id="g161-4-4">
+          <g
+             id="g163-3-9">
+            <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+            <circle
+               id="circle165-5-5"
+               cy="3.096"
+               r="1.98"
+               cx="2.7"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle167-1-0"
+               cy="3.096"
+               r="1.98"
+               cx="31.5"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="67872"
+       id="g169-7-4">
+      <g
+         transform="translate(38.5984,59.7757)"
+         id="g171-4-8">
+        <g
+           transform="matrix(0,1,-1,0,0,0)"
+           id="g173-3-7">
+          <g
+             id="g175-1-1">
+            <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+            <circle
+               id="circle177-4-7"
+               cy="3.096"
+               r="1.98"
+               cx="2.7"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle179-6-2"
+               cy="3.096"
+               r="1.98"
+               cx="31.5"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="68192"
+       id="g181-9-7">
+      <g
+         transform="translate(32.3616,59.7757)"
+         id="g183-4-2">
+        <g
+           transform="matrix(0,1,-1,0,0,0)"
+           id="g185-2-2">
+          <g
+             id="g187-2-6">
+            <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+            <circle
+               id="circle189-6-1"
+               cy="3.096"
+               r="1.98"
+               cx="2.7"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            <circle
+               id="circle191-4-0"
+               cy="3.096"
+               r="1.98"
+               cx="31.5"
+               style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="71202"
+       id="g193-1-6">
+      <g
+         transform="translate(8.9912,102.636)"
+         id="g195-2-1">
+        <g
+           id="g197-8-5">
+          <!-- <rect width="55" x="10" y="15.5" fill="none" height="55" stroke="rgb(255, 191, 0)" stroke-width="20" />  -->
+          <circle
+             id="circle199-8-9"
+             cy="3.096"
+             r="1.98"
+             cx="2.7"
+             style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+          <circle
+             id="circle201-9-4"
+             cy="3.096"
+             r="1.98"
+             cx="31.5"
+             style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854133672"
+       id="g203-2-9">
+      <g
+         transform="translate(46.3591,144.952)"
+         id="g205-8-0">
+        <g
+           transform="matrix(0,-1,1,0,0,0)"
+           id="g207-8-9">
+          <g
+             id="g209-8-1">
+            <g
+               id="g211-6-7">
+              <rect
+                 width="4.4640002"
+                 y="1.368"
+                 height="4.4640002"
+                 x="0.72000003"
+                 id="rect213-8-7"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="circle215-3-1"
+                 cy="3.5999999"
+                 r="2.2320001"
+                 cx="3.0239999"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+              <circle
+                 id="circle217-8-1"
+                 cy="3.5999999"
+                 r="2.2320001"
+                 cx="24.48"
+                 style="fill:none;stroke:#000000;stroke-width:1.44000006" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       partID="854118170"
+       id="g219-3-5">
+      <line
+         y1="55.242699"
+         y2="55.3032"
+         x1="44.560799"
+         x2="48.093399"
+         id="line221-3-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854118060"
+       id="g223-3-7">
+      <line
+         y1="61.439899"
+         y2="55.242699"
+         x1="36.799599"
+         x2="44.5606"
+         id="line225-8-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78690"
+       id="g227-0-6">
+      <line
+         y1="15.8918"
+         y2="15.5674"
+         x1="58.722401"
+         x2="11.1553"
+         id="line229-4-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78540"
+       id="g231-7-3">
+      <line
+         y1="15.5674"
+         y2="91.271202"
+         x1="11.1552"
+         x2="11.1249"
+         id="line233-6-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78390"
+       id="g235-8-5">
+      <line
+         y1="91.271202"
+         y2="91.309402"
+         x1="11.1248"
+         x2="8.28442"
+         id="line237-9-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78240"
+       id="g239-0-3">
+      <line
+         y1="24.877701"
+         y2="15.8918"
+         x1="58.7425"
+         x2="58.722599"
+         id="line241-6-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78130"
+       id="g243-8-4">
+      <line
+         y1="33.729401"
+         y2="33.805401"
+         x1="53.641602"
+         x2="56.978901"
+         id="line245-7-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854118280"
+       id="g247-9-1">
+      <line
+         y1="45.080601"
+         y2="42.486099"
+         x1="53.641602"
+         x2="53.641602"
+         id="line249-0-2"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854117890"
+       id="g251-3-9">
+      <line
+         y1="42.486099"
+         y2="33.729401"
+         x1="53.641602"
+         x2="53.641602"
+         id="line253-3-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="78020"
+       id="g255-3-9">
+      <line
+         y1="47.3307"
+         y2="45.080601"
+         x1="51.647999"
+         x2="53.641602"
+         id="line257-7-0"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77910"
+       id="g259-3-8">
+      <line
+         y1="47.460701"
+         y2="47.3307"
+         x1="51.346199"
+         x2="51.6478"
+         id="line261-2-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77800"
+       id="g263-6-5">
+      <line
+         y1="48.215801"
+         y2="48.100899"
+         x1="54.506401"
+         x2="56.980301"
+         id="line265-5-0"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77690"
+       id="g267-2-9">
+      <line
+         y1="55.242699"
+         y2="48.215801"
+         x1="54.506401"
+         x2="54.506401"
+         id="line269-6-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77580"
+       id="g271-5-3">
+      <line
+         y1="55.299999"
+         y2="55.242699"
+         x1="51.484501"
+         x2="54.506302"
+         id="line273-8-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77470"
+       id="g275-7-5">
+      <line
+         y1="62.5214"
+         y2="62.486698"
+         x1="51.484798"
+         x2="56.978401"
+         id="line277-9-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77360"
+       id="g279-6-1">
+      <line
+         y1="55.242699"
+         y2="55.262699"
+         x1="63.263199"
+         x2="60.5145"
+         id="line281-0-1"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77250"
+       id="g283-4-5">
+      <line
+         y1="40.864498"
+         y2="55.242699"
+         x1="63.263199"
+         x2="63.263199"
+         id="line285-1-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="77030"
+       id="g287-0-8">
+      <line
+         y1="40.864498"
+         y2="26.634199"
+         x1="63.263199"
+         x2="63.302299"
+         id="line289-4-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="76960"
+       id="g291-8-8">
+      <line
+         y1="26.634199"
+         y2="26.641199"
+         x1="63.302399"
+         x2="60.514599"
+         id="line293-7-1"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="76890"
+       id="g295-0-0">
+      <line
+         y1="40.8367"
+         y2="40.864399"
+         x1="60.514301"
+         x2="63.2631"
+         id="line297-8-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="67690"
+       id="g299-6-0">
+      <line
+         y1="62.487301"
+         y2="62.520302"
+         x1="43.398399"
+         x2="48.093102"
+         id="line301-2-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="67760"
+       id="g303-4-4">
+      <line
+         y1="91.320297"
+         y2="91.287399"
+         x1="48.0928"
+         x2="43.398399"
+         id="line305-7-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="67900"
+       id="g307-9-4">
+      <line
+         y1="91.275703"
+         y2="91.275703"
+         x1="37.162399"
+         x2="40.0784"
+         id="line309-3-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="68220"
+       id="g311-9-6">
+      <line
+         y1="91.276001"
+         y2="91.276001"
+         x1="30.9256"
+         x2="33.8424"
+         id="line313-2-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="68480"
+       id="g315-8-1">
+      <line
+         y1="61.529999"
+         y2="60.875301"
+         x1="29.5264"
+         x2="29.706699"
+         id="line317-3-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854117070"
+       id="g319-0-5">
+      <line
+         y1="48.215801"
+         y2="61.529999"
+         x1="45.1008"
+         x2="29.5257"
+         id="line321-1-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="68410"
+       id="g323-7-6">
+      <line
+         y1="48.162399"
+         y2="48.215698"
+         x1="48.093102"
+         x2="45.101002"
+         id="line325-8-2"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="71530"
+       id="g327-9-1">
+      <line
+         y1="105.732"
+         y2="105.732"
+         x1="10.0312"
+         x2="8.2847996"
+         id="line329-1-7"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72240"
+       id="g331-5-8">
+      <line
+         y1="95.566399"
+         y2="95.484398"
+         x1="40.560799"
+         x2="23.867001"
+         id="line333-4-5"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72150"
+       id="g335-9-7">
+      <line
+         y1="95.484802"
+         y2="59.783401"
+         x1="23.867201"
+         x2="24.1287"
+         id="line337-2-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854117180"
+       id="g339-5-1">
+      <line
+         y1="41.080601"
+         y2="40.985802"
+         x1="45.1008"
+         x2="48.093498"
+         id="line341-7-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72080"
+       id="g343-4-5">
+      <line
+         y1="59.783199"
+         y2="41.0807"
+         x1="24.128"
+         x2="45.1008"
+         id="line345-9-9"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72010"
+       id="g347-9-7">
+      <line
+         y1="104.072"
+         y2="95.566299"
+         x1="40.502499"
+         x2="40.560501"
+         id="line349-4-5"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72420"
+       id="g351-5-3">
+      <line
+         y1="129.51199"
+         y2="107.392"
+         x1="40.344799"
+         x2="40.481499"
+         id="line353-9-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="72310"
+       id="g355-3-8">
+      <line
+         y1="129.589"
+         y2="129.51199"
+         x1="40.787399"
+         x2="40.344799"
+         id="line357-5-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854118500"
+       id="g359-7-1">
+      <line
+         y1="120.431"
+         y2="120.431"
+         x1="5.4256001"
+         x2="6.6147799"
+         id="line361-0-8"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854118390"
+       id="g363-8-9">
+      <line
+         y1="120.431"
+         y2="114.628"
+         x1="6.6152"
+         x2="6.5950398"
+         id="line365-1-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="73720"
+       id="g367-9-4">
+      <line
+         y1="127.492"
+         y2="120.431"
+         x1="5.4492698"
+         x2="5.4256001"
+         id="line369-9-3"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="74460"
+       id="g371-7-3">
+      <line
+         y1="129.25999"
+         y2="129.25999"
+         x1="15.6232"
+         x2="21.392"
+         id="line373-8-3"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854133330"
+       id="g375-2-8">
+      <line
+         y1="107.392"
+         y2="129.35899"
+         x1="11.69"
+         x2="11.674"
+         id="line377-5-6"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854133500"
+       id="g379-3-0">
+      <line
+         y1="129.35899"
+         y2="129.438"
+         x1="11.674"
+         x2="10.8961"
+         id="line381-4-4"
+         style="stroke:#000000;stroke-width:1.15199995;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134020"
+       id="g383-9-8">
+      <line
+         y1="141.841"
+         y2="131.994"
+         x1="10.7662"
+         x2="6.6094899"
+         id="line385-0-8"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854133780"
+       id="g387-2-8">
+      <line
+         y1="141.922"
+         y2="141.841"
+         x1="46.847099"
+         x2="10.7662"
+         id="line389-0-9"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854133910"
+       id="g391-1-7">
+      <line
+         y1="136.103"
+         y2="140.495"
+         x1="57.329498"
+         x2="51.772999"
+         id="line393-9-7"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134740"
+       id="g395-6-6">
+      <line
+         y1="136.33299"
+         y2="136.394"
+         x1="43.723301"
+         x2="31.8722"
+         id="line397-2-4"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134390"
+       id="g399-1-3">
+      <line
+         y1="132.629"
+         y2="136.33299"
+         x1="49.999699"
+         x2="43.723301"
+         id="line401-2-0"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134280"
+       id="g403-0-3">
+      <line
+         y1="136.394"
+         y2="132.371"
+         x1="31.8722"
+         x2="31.7773"
+         id="line405-7-0"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134170"
+       id="g407-3-9">
+      <line
+         y1="123.584"
+         y2="132.629"
+         x1="49.969501"
+         x2="49.999699"
+         id="line409-1-2"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134540"
+       id="g411-1-5">
+      <line
+         y1="123.584"
+         y2="127.587"
+         x1="49.976898"
+         x2="49.999699"
+         id="line413-9-4"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+    <g
+       partID="854134650"
+       id="g415-0-0">
+      <line
+         y1="127.587"
+         y2="127.568"
+         x1="49.999699"
+         x2="56.062401"
+         id="line417-5-5"
+         style="stroke:#000000;stroke-width:3.45600009;stroke-linecap:round" />
+    </g>
+  </g>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-0-2"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,118.89301,61.475298)"><flowRegion
+       id="flowRegion4609-0-1-2"><rect
+         id="rect4611-3-0-4"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       id="flowPara4613-0-1-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'">Ondřej Šilha</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-9-3-7"
+     style="font-style:normal;font-weight:normal;font-size:6.00000381px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(3.7992193e-4,1.0419323,1.5087207,-2.6237654e-4,77.092019,7.4416653)"><flowRegion
+       id="flowRegion4609-0-2-7-5"><rect
+         id="rect4611-3-5-7-4"
+         width="122.86466"
+         height="25.451307"
+         x="8.9123058"
+         y="-1.2731918"
+         style="font-size:6.00000381px" /></flowRegion><flowPara
+       id="flowPara4613-0-4-2-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.00000381px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'">https://github.com/myfin02/opengrip</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-6-1"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,89.028939,56.935305)"><flowRegion
+       id="flowRegion4609-0-24-4-4-2"><rect
+         id="rect4611-3-7-8-5-8"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4723-2-9">R1</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-0-3"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,95.626365,56.709028)"><flowRegion
+       id="flowRegion4609-0-24-4-8-2-6"><rect
+         id="rect4611-3-7-8-9-9-8"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4723-3-0-0">R2</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-9-2"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,101.78506,56.601438)"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-9-1"><rect
+         id="rect4611-3-7-8-9-0-4-0"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4723-3-2-5-5">R3</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-1-10-1"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,94.173519,92.501387)"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-0-3-1"><rect
+         id="rect4611-3-7-8-9-0-5-7-0"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4723-3-2-1-8-8">R4</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-1-1-8-5"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,105.49353,113.73127)"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-0-0-60-0"><rect
+         id="rect4611-3-7-8-9-0-5-8-46-6"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4823-7-4">D1</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-1-1-0-6-6"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(2.5181725e-4,0.99999993,0.99999995,-2.5181725e-4,80.02991,122.61819)"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-0-0-6-0-2"><rect
+         id="rect4611-3-7-8-9-0-5-8-4-9-5"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4823-6-7-8">T1</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-3-92-5-2-6-1-1-3-4-6"
+     style="font-style:normal;font-weight:normal;font-size:32.00001907px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-0.99999051,-0.00435917,-0.00435917,0.99999049,100.52068,6.4216303)"
+     inkscape:transform-center-x="68.387822"
+     inkscape:transform-center-y="9.5508095"><flowRegion
+       id="flowRegion4609-0-24-4-8-8-0-0-1-0-2"><rect
+         id="rect4611-3-7-8-9-0-5-8-1-3-8"
+         width="73.52652"
+         height="16.86972"
+         x="8.9123058"
+         y="-1.2731918" /></flowRegion><flowPara
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.00000477px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
+       id="flowPara4823-0-1-4">V1.1</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4607-8-6"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="matrix(-0.80000053,0,0,0.80000046,91.198805,1.6399171)"><flowRegion
+       id="flowRegion4609-9-2"><rect
+         transform="scale(-1,1)"
+         id="rect4611-6-9"
+         width="91.908089"
+         height="21.087139"
+         x="-56.463497"
+         y="-3.0928178" /></flowRegion><flowPara
+       id="flowPara4613-07-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74999905px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'">OpenGrip 2017</flowPara></flowRoot></svg>
